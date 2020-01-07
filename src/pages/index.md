@@ -12,9 +12,9 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: >-
-    #### RKH Landscaping Inc. is a full service landscaping maintenance company.
-    We've been providing residential and commercial landscaping to the Treasure
-    Valley since 1987.
+    ##### RKH Landscaping Inc. is a full service landscaping maintenance
+    company. We've been providing residential and commercial landscaping to the
+    Treasure Valley since 1987.
   title: RKH Landscaping
 sections:
   - background_style: style2
