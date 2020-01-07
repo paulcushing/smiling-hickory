@@ -1,21 +1,12 @@
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-facebook
+    title: Facebook
     url: '#'
-  - title: Facebook
-    icon: fa-facebook
+  - icon: fa-envelope-o
+    title: Email
     url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    url: '#'
-copyright: '&copy; Spectral'
+copyright: '&copy; RKHLandscaping'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: Built by GemStateMedia
+    url: 'https://www.gemstatemedia.com'
