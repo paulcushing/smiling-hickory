@@ -88,19 +88,19 @@ sections:
   - actions:
       - is_primary: true
         is_scrolly: false
-        label: Activate
-        url: /generic
+        label: Conact Us
+        url: /contact
       - is_primary: false
         is_scrolly: false
-        label: Learn More
-        url: /generic
+        label: Our Services
+        url: /services
     background_style: style4
     component: Cta
     section_id: cta
     text: >-
-      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-      eleifend fringilla.
-    title: Arcue ut vel commodo
+      Whether you need a quote or just want to say thanks for a job well done...
+      we'd love to hear from you.
+    title: Get In Touch
     type: cta
 menus:
   main:
