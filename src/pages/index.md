@@ -4,8 +4,8 @@ banner:
   actions:
     - is_primary: true
       is_scrolly: false
-      label: Contact Us
-      url: /contact
+      label: Call Us
+      url: 'tel:+12083767605'
   bottom_link:
     has_arrow: true
     is_scrolly: true
